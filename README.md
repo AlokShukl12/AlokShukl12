@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tailwand css**
 
-- 👯 I’m looking to collaborate on [WeatherApp](https://alokshukl12.github.io/Weather1/)
+- 👯 I’m looking to collaborate on [EliteMart](https://elite-mart-blush.vercel.app/)
 
 - 🤝 I’m looking for help with [Portfolio](https://alokshukl12.github.io/Portfolio1/)
 
