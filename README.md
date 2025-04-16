@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokshukl12" alt="alokshukl12" /></a> </p>
 
-- 🔭 I’m currently working on [MajorProject](https://wander-llr4.onrender.com/listings)
+- 🔭 I’m currently working on [MinorProject](https://wander-llr4.onrender.com/listings)
 
-- 🌱 I’m currently learning **Tailwand css**
+- 🌱 I’m currently learning **Tailwand css,Angular**
 
-- 👯 I’m looking to collaborate on [EliteMart](https://elite-mart-blush.vercel.app/)
+- 👯 I’m looking to collaborate on [MajorProject-EliteMart](https://elite-mart-blush.vercel.app/)
 
-- 🤝 I’m looking for help with [Portfolio](https://alokshukl12.github.io/Portfolio1/)
+- 🤝 I’m looking for help with [Portfolio](https://my-portfolio-k6r2.vercel.app/)
 
 - 📫 How to reach me **alokshukla6060@gmail.com**
 
