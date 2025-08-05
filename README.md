@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [MajorProject-EliteMart](https://elite-mart-blush.vercel.app/)
 
-- 🤝 I’m looking for help with [Portfolio]](https://3-d-portfolio-yxf6.vercel.app/)
+- 🤝 I’m looking for help with [Portfolio](https://3-d-portfolio-yxf6.vercel.app/)
 
 - 📫 How to reach me **alokshukla6060@gmail.com**
 
