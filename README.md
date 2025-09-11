@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokshukl12" alt="alokshukl12" /></a> </p>
 
-- 🔭 Second MajorProject [MajorProject](https://rideora-frontend.vercel.app/)
+- 🔭 Second MajorProject [MajorProject-Rideora](https://rideora-frontend.vercel.app/)
 
 - 🌱 I’m currently learning **NextJS,Angular**
 
