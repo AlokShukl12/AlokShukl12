@@ -5,7 +5,7 @@
 
 - 🔭 Second MajorProject [MajorProject](https://rideora-frontend.vercel.app/)
 
-- 🌱 I’m currently learning **Tailwand css,Angular**
+- 🌱 I’m currently learning **NextJS,Angular**
 
 - 👯 I’m looking to collaborate on [MajorProject-EliteMart](https://elite-mart-blush.vercel.app/)
 
